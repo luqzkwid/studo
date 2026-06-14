@@ -64,7 +64,7 @@ Uma colecao de elementos, nao necessariamente numericos.
 Relacoes de pertinencias entre elementos de conjuntos permitem identificar quais elementos pertencem ou nao pertencem a um determinado conjunto.
 
 ## CONJUNTOS UNIVERSO:
-Basicamente um conjunto que engloba os demais conjuntos, tendo U = Inteiros (Z), entao o conjunto universo engloba o conjunto dos naturais (N), e por causa disso, o conjunto complementar de N em relacao ao conjunto universo (U) e igual a: Cmp n->u = U - N ={x pertence U | X nao pertence N };
+Basicamente um conjunto que engloba os demais conjuntos, tendo U = Inteiros (Z), entao o conjunto universo engloba o conjunto dos naturais (N), e por causa disso, o conjunto complementar de N em relacao ao conjunto universo (U) e igual a: Cmp n->u = U - N ={x pertence U | x nao pertence N };
 
 ## Unitário:
 Possui apenas um elemento.
