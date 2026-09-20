@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"db3ed7bfb5311816","type":"text","text":"# Divisão de polinômios","x":678,"y":-430,"width":250,"height":70,"color":"3"},
+		{"id":"1d885aa8da9837b8","type":"text","text":"# Subtração, Adição e Multiplicação","x":-80,"y":-718,"width":415,"height":50,"color":"2"},
+		{"id":"f9d80df1c0e4f349","type":"text","text":"# Operações com polinômios","x":45,"y":-928,"width":250,"height":60,"color":"2"},
+		{"id":"120ba509121f0874","type":"text","text":"# POLINÔMIOS","x":-175,"y":-1200,"width":214,"height":50,"color":"1"},
+		{"id":"5bc04994ad31e03e","type":"file","file":"Matérias/Matemática/Polinômios/Definição de polinômio.md","x":-625,"y":-869,"width":400,"height":303,"color":"1"},
+		{"id":"118fd77e1df91aef","type":"text","text":"# Propriedades da multiplicação","x":360,"y":-490,"width":250,"height":60,"color":"2"},
+		{"id":"8a0cb4c315983b30","type":"text","text":"# Briot Ruffini","x":1600,"y":-210,"width":283,"height":50,"color":"4"},
+		{"id":"3cac8fd15c6f2276","type":"text","text":"# Método de Descartes","x":1600,"y":-71,"width":283,"height":50,"color":"4"},
+		{"id":"76e612d3ca071a68","type":"text","text":"# Exemplo prático","x":2280,"y":-220,"width":250,"height":60,"color":"5"},
+		{"id":"aaa439b09bf7d93c","type":"file","file":"Matérias/Matemática/Polinômios/Divisão entre polinômios.md","x":1080,"y":-538,"width":400,"height":400,"color":"3"},
+		{"id":"e8ed7b7067a0f50e","type":"text","text":"# Método da Chave","x":1600,"y":-480,"width":283,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"9f18f37dc44e34f9","fromNode":"f9d80df1c0e4f349","fromSide":"bottom","toNode":"1d885aa8da9837b8","toSide":"top","color":"2"},
+		{"id":"4f71700ff86d4ba0","fromNode":"f9d80df1c0e4f349","fromSide":"bottom","toNode":"118fd77e1df91aef","toSide":"left","color":"2"},
+		{"id":"4efabb6a0c6be4c2","fromNode":"f9d80df1c0e4f349","fromSide":"bottom","toNode":"db3ed7bfb5311816","toSide":"top","color":"3"},
+		{"id":"3145df00a38aa14e","fromNode":"aaa439b09bf7d93c","fromSide":"right","toNode":"3cac8fd15c6f2276","toSide":"left","color":"4"},
+		{"id":"97b75f84318ab20e","fromNode":"8a0cb4c315983b30","fromSide":"right","toNode":"76e612d3ca071a68","toSide":"left","color":"4"},
+		{"id":"e6b397c085d81551","fromNode":"120ba509121f0874","fromSide":"bottom","toNode":"5bc04994ad31e03e","toSide":"top","color":"1"},
+		{"id":"256126488acc5520","fromNode":"120ba509121f0874","fromSide":"bottom","toNode":"f9d80df1c0e4f349","toSide":"top","color":"1"},
+		{"id":"b056b59f353b9df9","fromNode":"db3ed7bfb5311816","fromSide":"right","toNode":"aaa439b09bf7d93c","toSide":"left","color":"4"}
+	]
+}

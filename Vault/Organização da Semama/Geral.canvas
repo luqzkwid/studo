@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8650f49452665de6","type":"file","file":"Organização da Semama/Tarefas.md","x":45,"y":-197,"width":675,"height":757,"color":"4"},
+		{"id":"9349ade2a2ace68f","type":"text","text":"## Função:\n> A aba de tarefas é como um hub geral, onde você consegue fazer as mudanças necessárias na semana e acessar os tópicos de estudos das matérias. ","x":45,"y":-500,"width":675,"height":198,"color":"4"},
+		{"id":"307d2dba01bbf51c","x":-680,"y":-500,"width":560,"height":191,"color":"1","type":"text","text":"# Função:\n> Aqui ficarão as tarefas que não estavam previstas para a semana.  "},
+		{"id":"2fe6e0ac3bbd2a0a","x":-680,"y":-197,"width":560,"height":767,"color":"1","type":"file","file":"Organização da Semama/Tarefas não cotidianas.md"}
+	],
+	"edges":[
+		{"id":"f6cfece38fcd79ae","fromNode":"9349ade2a2ace68f","fromSide":"bottom","toNode":"8650f49452665de6","toSide":"top","color":"4"},
+		{"id":"c0bca38f19c0c750","fromNode":"307d2dba01bbf51c","fromSide":"bottom","toNode":"2fe6e0ac3bbd2a0a","toSide":"top","color":"1"}
+	]
+}
